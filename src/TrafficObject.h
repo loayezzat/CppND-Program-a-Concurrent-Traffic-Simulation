@@ -13,6 +13,8 @@ enum ObjectType
     objectStreet,
 };
 
+
+  
 class TrafficObject
 {
 public:
